@@ -1,0 +1,20 @@
+#home{
+    padding: 5%;
+}
+
+.title{
+    margin-bottom: 30px;
+}
+
+.sub-title{
+    margin-bottom: 30px;
+}
+
+.datos-container{
+    text-align: start;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
